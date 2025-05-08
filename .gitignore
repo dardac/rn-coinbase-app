@@ -1,0 +1,94 @@
+# Node.js / Yarn
+node_modules/
+yarn.lock
+package-lock.json
+npm-debug.log
+yarn-error.log
+
+# React Native
+*.rncache
+*.mobileprovision
+*.orig.*
+*.jks
+*.p8
+*.p12
+*.key
+*.keystore
+*.aab
+*.apk
+
+# Metro
+.metro/
+
+# Build Outputs
+/build/
+/ios/build/
+/ios/DerivedData/
+/ios/Pods/
+/android/build/
+/android/app/build/
+/android/.gradle/
+/android/gradle/
+/android/gradlew
+/android/gradlew.bat
+
+# Xcode
+*.pbxproj
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+*.xcworkspace
+*.xcodeproj
+xcuserdata/
+*.xcuserdatad
+*.xccheckout
+*.moved-aside
+DerivedData/
+*.hmap
+*.ipa
+*.dSYM.zip
+*.dSYM
+ios/Pods/
+ios/Podfile.lock
+
+# Android Studio
+.idea/
+*.iml
+.gradle/
+local.properties
+.DS_Store
+
+# Environment Variables
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# Temporary Files
+*.log
+*.log.*
+*.tmp
+*.bak
+*.swp
+*~
+.DS_Store
+Thumbs.db
+
+# Editor Files
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Testing
+coverage/
+*.lcov
+
+# Miscellaneous
+.sentryclirc
+.watchmanconfig
+.buckconfig
+.flowconfig
+*.pid
+*.seed
+*.pid.lock

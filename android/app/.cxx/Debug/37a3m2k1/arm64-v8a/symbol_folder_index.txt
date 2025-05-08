@@ -1,0 +1,1 @@
+/Users/darda/Documents/projects/amber-test/RNCoinbaseApp/android/app/build/intermediates/cxx/Debug/37a3m2k1/obj/arm64-v8a

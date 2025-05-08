@@ -1,0 +1,9 @@
+/Users/darda/Documents/projects/rn-coinbase-app/android/app/.cxx/Debug/4341z6l6/x86/CMakeFiles/appmodules.dir
+/Users/darda/Documents/projects/rn-coinbase-app/android/app/.cxx/Debug/4341z6l6/x86/CMakeFiles/edit_cache.dir
+/Users/darda/Documents/projects/rn-coinbase-app/android/app/.cxx/Debug/4341z6l6/x86/CMakeFiles/rebuild_cache.dir
+/Users/darda/Documents/projects/rn-coinbase-app/android/app/.cxx/Debug/4341z6l6/x86/rnasyncstorage_autolinked_build/CMakeFiles/react_codegen_rnasyncstorage.dir
+/Users/darda/Documents/projects/rn-coinbase-app/android/app/.cxx/Debug/4341z6l6/x86/rnasyncstorage_autolinked_build/CMakeFiles/edit_cache.dir
+/Users/darda/Documents/projects/rn-coinbase-app/android/app/.cxx/Debug/4341z6l6/x86/rnasyncstorage_autolinked_build/CMakeFiles/rebuild_cache.dir
+/Users/darda/Documents/projects/rn-coinbase-app/android/app/.cxx/Debug/4341z6l6/x86/RNHapticFeedbackSpec_autolinked_build/CMakeFiles/react_codegen_RNHapticFeedbackSpec.dir
+/Users/darda/Documents/projects/rn-coinbase-app/android/app/.cxx/Debug/4341z6l6/x86/RNHapticFeedbackSpec_autolinked_build/CMakeFiles/edit_cache.dir
+/Users/darda/Documents/projects/rn-coinbase-app/android/app/.cxx/Debug/4341z6l6/x86/RNHapticFeedbackSpec_autolinked_build/CMakeFiles/rebuild_cache.dir

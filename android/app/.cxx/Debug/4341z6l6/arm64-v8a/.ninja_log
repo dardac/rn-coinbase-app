@@ -1,0 +1,21 @@
+# ninja log v5
+1	43	0	/Users/darda/Documents/projects/rn-coinbase-app/android/app/.cxx/Debug/4341z6l6/arm64-v8a/CMakeFiles/cmake.verify_globs	45b66c62e3153bcc
+4	10945	1746669136732520094	rnasyncstorage_autolinked_build/CMakeFiles/react_codegen_rnasyncstorage.dir/react/renderer/components/rnasyncstorage/States.cpp.o	f93b4929f1bf7d1a
+9	11988	1746669137770973775	RNHapticFeedbackSpec_autolinked_build/CMakeFiles/react_codegen_RNHapticFeedbackSpec.dir/react/renderer/components/RNHapticFeedbackSpec/EventEmitters.cpp.o	b686c3fac90c7908
+2	12007	1746669137791432694	rnasyncstorage_autolinked_build/CMakeFiles/react_codegen_rnasyncstorage.dir/react/renderer/components/rnasyncstorage/EventEmitters.cpp.o	f10a120d7163d3c1
+3	13180	1746669138969728508	rnasyncstorage_autolinked_build/CMakeFiles/react_codegen_rnasyncstorage.dir/react/renderer/components/rnasyncstorage/Props.cpp.o	b36fd46a93f09a11
+3	13595	1746669139333289661	rnasyncstorage_autolinked_build/CMakeFiles/react_codegen_rnasyncstorage.dir/react/renderer/components/rnasyncstorage/ShadowNodes.cpp.o	fd941cfccdd5d48b
+4	13678	1746669139465116151	rnasyncstorage_autolinked_build/CMakeFiles/react_codegen_rnasyncstorage.dir/react/renderer/components/rnasyncstorage/rnasyncstorageJSI-generated.cpp.o	744675000cadd1b2
+8	13852	1746669139638338939	RNHapticFeedbackSpec_autolinked_build/CMakeFiles/react_codegen_RNHapticFeedbackSpec.dir/react/renderer/components/RNHapticFeedbackSpec/ComponentDescriptors.cpp.o	a8f12b06152246c7
+6	13903	1746669139688839672	rnasyncstorage_autolinked_build/CMakeFiles/react_codegen_rnasyncstorage.dir/rnasyncstorage-generated.cpp.o	c18568c11b86e9f8
+7	14104	1746669139887822806	RNHapticFeedbackSpec_autolinked_build/CMakeFiles/react_codegen_RNHapticFeedbackSpec.dir/RNHapticFeedbackSpec-generated.cpp.o	a24095cab6e2ec0
+0	14112	1746669139897964494	CMakeFiles/appmodules.dir/Users/darda/Documents/projects/rn-coinbase-app/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o	fc3b39f11afaaa1c
+1	14206	1746669139994905493	rnasyncstorage_autolinked_build/CMakeFiles/react_codegen_rnasyncstorage.dir/react/renderer/components/rnasyncstorage/ComponentDescriptors.cpp.o	462b6e40f9e81311
+1	14411	1746669140197236552	CMakeFiles/appmodules.dir/OnLoad.cpp.o	7d2e8a2556322902
+13180	15548	1746669141343080921	RNHapticFeedbackSpec_autolinked_build/CMakeFiles/react_codegen_RNHapticFeedbackSpec.dir/react/renderer/components/RNHapticFeedbackSpec/States.cpp.o	296271a9cbacac09
+10947	15615	1746669141403116549	RNHapticFeedbackSpec_autolinked_build/CMakeFiles/react_codegen_RNHapticFeedbackSpec.dir/react/renderer/components/RNHapticFeedbackSpec/Props.cpp.o	6e74ee96ceb1a6a4
+11989	15832	1746669141622857853	RNHapticFeedbackSpec_autolinked_build/CMakeFiles/react_codegen_RNHapticFeedbackSpec.dir/react/renderer/components/RNHapticFeedbackSpec/RNHapticFeedbackSpecJSI-generated.cpp.o	361ffd7bea3e8417
+12007	15913	1746669141705476738	RNHapticFeedbackSpec_autolinked_build/CMakeFiles/react_codegen_RNHapticFeedbackSpec.dir/react/renderer/components/RNHapticFeedbackSpec/ShadowNodes.cpp.o	5dedb2dc2cc72769
+15913	16142	1746669141932793850	/Users/darda/Documents/projects/rn-coinbase-app/android/app/build/intermediates/cxx/Debug/4341z6l6/obj/arm64-v8a/libappmodules.so	870284e6166d5b17
+1	66	0	/Users/darda/Documents/projects/rn-coinbase-app/android/app/.cxx/Debug/4341z6l6/arm64-v8a/CMakeFiles/cmake.verify_globs	45b66c62e3153bcc
+0	319	0	/Users/darda/Documents/projects/rn-coinbase-app/android/app/.cxx/Debug/4341z6l6/arm64-v8a/CMakeFiles/cmake.verify_globs	45b66c62e3153bcc
