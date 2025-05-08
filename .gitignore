@@ -27,6 +27,7 @@ yarn-error.log
 /ios/Pods/
 /android/build/
 /android/app/build/
+/android/app/.cxx/
 /android/.gradle/
 /android/gradle/
 /android/gradlew

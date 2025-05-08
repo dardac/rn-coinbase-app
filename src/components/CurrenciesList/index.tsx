@@ -33,8 +33,24 @@ export const CurrenciesList = () => {
   }, [dispatch]);
 
   const connectWebSocket = () => {
-    if (ws) {
+    if (ws && ws.readyState === WebSocket.OPEN) {
+      ws.send(
+        JSON.stringify({
+          type: 'unsubscribe',
+          product_ids: [
+            'BTC-USD',
+            'ETH-USD',
+            'LTC-USD',
+            'BCH-USD',
+            'XRP-USD',
+            'ADA-USD',
+          ],
+          channels: ['ticker'],
+        })
+      );
       ws.close();
+      setWs(null);
+      return;
     }
 
     const websocket = new WebSocket('wss://ws-feed.exchange.coinbase.com');
@@ -69,9 +85,9 @@ export const CurrenciesList = () => {
       }
     };
 
-    websocket.onerror = wsError => {
-      console.error('WebSocket error:', wsError);
+    websocket.onerror = () => {
       dispatch(setError('There was an error with the WebSocket connection.'));
+      setWs(null);
     };
 
     websocket.onclose = () => {
@@ -106,12 +122,13 @@ export const CurrenciesList = () => {
   return (
     <SafeAreaView style={[styles.container, {backgroundColor}]}>
       <Text style={styles.title}>Cryptocurrencies</Text>
-        <TouchableOpacity
-          onPress={connectWebSocket}
-          style={styles.button}
-        >
-          <Text style={styles.buttonText}>{ws ? 'Stop' : 'Get real-time prices'}</Text>
-        </TouchableOpacity>
+      <TouchableOpacity onPress={connectWebSocket} style={styles.button}>
+        <Text style={styles.buttonText}>
+          {ws && ws.readyState === WebSocket.OPEN
+            ? 'Stop'
+            : 'Get real-time prices'}
+        </Text>
+      </TouchableOpacity>
       <FlatList
         data={currencies}
         renderItem={renderItem}

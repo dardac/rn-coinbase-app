@@ -13,3 +13,4 @@
 - I decided to use react-native-fast-image to improve the images loading performance 
 - I’d like to add a new screen that only shows the cryptocurrency, but as that’d be additional I’ll focus first on checking the code again and adding improvements to what I already have
 - I’ll create the repo and push the code (10:03pm)
+- I had an issue because I have many ssh for different github accounts locally, so I has to regenerate a new SSH and a new token. That's why I pushed my commit like 15 mins after
